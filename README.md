@@ -27,6 +27,7 @@ The goal of this assignment is to explore the NEI database and analyze PM2.5 pol
 ## Making and Submitting Plots
 
 For each question, you should:
+
 - Create a plot and save it as a PNG file.
 - Write separate R code files (e.g., plot1.R, plot2.R) to generate the corresponding plots.
 - Upload the PNG files to the assignment submission page.
